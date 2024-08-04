@@ -3,11 +3,16 @@ body {
 background-color: purple;
 color: white;
 font-family: Nunito;
- margin-top: 0;
 }
 button {
   background-color: #e75cff;
   color: white;
   font-family: Nunito;
   border-color: white;
+}
+header {
+  margin-top: 0;
+}
+footer {
+  margin-top: 0;
 }
