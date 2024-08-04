@@ -11,3 +11,6 @@ button {
   font-family: Nunito;
   border-color: white;
 }
+a {
+  color: lime;
+}
