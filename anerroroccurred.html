@@ -31,6 +31,12 @@
     </style>
   </head>
   <body href="http://anerroroccurred.com/">
-    <p>An Error Occurred</p>
+    <a onclick="myFunction()"><p>An Error Occurred</p></a>
+    <p id="troll"></p>
+    <script>
+      function myFunction() {
+document.getElementById("troll").innerHTML = "You have been trolled!";
+      }
+    </script>
   </body>
 </html>
